@@ -1,1 +1,2 @@
-This is Testing git repo
+This is Testing git repo.
+Commit from feature-1
